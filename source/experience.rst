@@ -6,7 +6,7 @@ Experience
 Artist/Illustrator at Lois Legacy Art LLC (formerly Lois Mitchell, Artist), Hudson, NH
 **************************************************************************************
 
-*2003–Present*
+*2003 – Present*
 
 Create freelance illustrations, 3D topographic maps, and fine art paintings and drawings. Develop and execute marketing and sales plans including social media campaigns and direct sales events. Manage online store content and e-commerce transactions.
 
@@ -27,7 +27,7 @@ Recruited to document Java software development kit and reference materials. Int
 Usability Director/Technical Writer/Programmer at Proactive Solutions, Tulsa, OK & Bethel Park, PA
 **************************************************************************************************
 
-*1993 - 1997 *
+*1993 - 1997*
 
 Developed user interfaces (UI) in collaboration with a multidisciplinary team including executive management. Designed and conducted usability tests, instituting a usability lab, recruiting and training sample users, and developing high and low fidelity prototypes. Incorporated feedback and coded user interfaces.
 
