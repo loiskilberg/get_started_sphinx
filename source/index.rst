@@ -2,13 +2,12 @@ Sample Resume with Sphinx
 ###############################
 
 
-.. image:: images/github-photo.png
-         :name: my picture
+.. image:: images/loiskilberg.png
+         :name: photo of Lois
          :width: 30%
 
-Mark Hoeber
-Instructor, Middlesex Community College
-
+Lois Kilberg
+Technical Writer
 
 |Contents|
 
