@@ -7,12 +7,12 @@ Key Skills Experience
    :widths: 50 50 50
    :header-rows: 1
 
-   * - Skill Type 1
-     - Skill Type 2
-     - Skill Type 3
-   * - Skill
-     - Skill
-     - Skill
-   * - Skill
-     - Skill
-     - Skill
+   * - Windows
+     - Mac OS
+     - HTML
+   * - Java
+     - C
+     - Wacom Tablet
+   * - Adobe Creative Suite: Illustrator/Photoshop/InDesign
+     - Corel Painter
+     - Dreamweaver
