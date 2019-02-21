@@ -2,10 +2,11 @@
 Personal Profile
 #################
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dolor metus, interdum at scelerisque in, porta at lacus. Maecenas dapibus luctus cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.
+Accomplished professional with a wide variety of both technical and creative experience, eager to return to technical writing and contribute in a remote position for a dynamic and forward-thinking company.
 
-* Bullet 1
-* Bullet 2
+*    **Talented writer** with extensive experience documenting a wide variety of software applications from APIs to industrial automation software, developing and delivering associated training materials.
+*    Demonstrated technical expertise, **skilled at coding applications** in several languages including HTML & C.
+*    Proven track record of **user-friendly interface design** drawing on extensive background in art and design.
 
 
 
