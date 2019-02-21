@@ -5,7 +5,7 @@ Key Skills Experience
 
 .. list-table:: Key Skills
    :widths: 50 50 50
-   :header-rows: 1
+   :header-rows: 0
 
    * - Windows
      - Mac OS
