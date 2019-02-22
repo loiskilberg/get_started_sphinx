@@ -1,12 +1,11 @@
-Sample Resume with Sphinx
-###############################
+Lois Mitchell
+#############
 
 
 .. image:: images/squareCroppedOptionJustHead.jpg
          :name: photo of Lois
          :width: 30%
 
-Lois Kilberg
 Technical Writer
 
 |Contents|
