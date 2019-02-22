@@ -2,7 +2,7 @@ Sample Resume with Sphinx
 ###############################
 
 
-.. image:: images/loiskilberg.png
+.. image:: images/squareCroppedOptionJustHead.jpg
          :name: photo of Lois
          :width: 30%
 
