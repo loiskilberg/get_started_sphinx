@@ -1,5 +1,5 @@
-Lois Mitchell
-#############
+Lois Kilberg
+############
 
 
 .. image:: images/squareCroppedOptionJustHead.jpg
