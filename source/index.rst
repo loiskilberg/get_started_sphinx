@@ -14,6 +14,7 @@ Technical Writer
 .. toctree::
    :maxdepth: 2
 
+   contactInfo
    profile
    experience
    skills
