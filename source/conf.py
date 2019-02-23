@@ -23,8 +23,8 @@ pygments_style = 'sphinx'
 
 #Here's where to find some themes: https://www.sphinx-doc.org/en/master/usage/theming.html?highlight=theme
 #html_theme = 'default'
-html_theme = 'agogo'
-#html_theme = 'alabaster'
+#html_theme = 'agogo'
+html_theme = 'alabaster'
 #html_theme = 'bizstyle'
 #html_theme = 'classic'
 #html_theme = 'haiku'
